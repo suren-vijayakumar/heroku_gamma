@@ -1,3 +1,3 @@
-DS_STORE/
-node_modules/
-.idea/
+.DS_STORE/ // Mac stuff
+node_modules/    // too much memory
+.idea/       //project setting for Webstorm
